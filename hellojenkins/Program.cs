@@ -11,6 +11,7 @@ namespace hellojenkins
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Jenkins!");
+            //this shall trigger build
         }
     }
 }
